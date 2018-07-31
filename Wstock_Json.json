@@ -82,6 +82,20 @@
         [
 		{
 		"author": "Wstock Wallpapers",
+		"url": "https://raw.githubusercontent.com/newast/WstockWallpapers_1/master/wallpaper_42.jpg",
+		"thumbUrl": "https://raw.githubusercontent.com/newast/WstockWallpapers_1/master/wallpaper_42_thumb.jpg",
+		"name": "abstract,grey,blue,material,blackberry wallpaper",
+                "category": "blackberry"
+	    },
+		{
+		"author": "Wstock Wallpapers",
+		"url": "https://raw.githubusercontent.com/newast/WstockWallpapers_1/master/wallpaper_41.jpg",
+		"thumbUrl": "https://raw.githubusercontent.com/newast/WstockWallpapers_1/master/wallpaper_41_thumb.jpg",
+		"name": "abstract,yellow,green,black,material,blackberry wallpaper",
+                "category": "blackberry"
+	    },
+		{
+		"author": "Wstock Wallpapers",
 		"url": "https://raw.githubusercontent.com/newast/WstockWallpapers_1/master/wallpaper_40.jpg",
 		"thumbUrl": "https://raw.githubusercontent.com/newast/WstockWallpapers_1/master/wallpaper_40_thumb.jpg",
 		"name": "abstract,blue,pink,material,blackberry wallpaper",
