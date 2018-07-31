@@ -82,6 +82,41 @@
         [
 		{
 		"author": "Wstock Wallpapers",
+		"url": "https://raw.githubusercontent.com/newast/WstockWallpapers_1/master/wallpaper_72.jpg",
+		"thumbUrl": "https://raw.githubusercontent.com/newast/WstockWallpapers_1/master/wallpaper_72_thumb.jpg",
+		"name": "landscape,nature,hills,blue,pink,yellow,coolpad",
+                "category": "coolpad"
+	    },
+		{
+		"author": "Wstock Wallpapers",
+		"url": "https://raw.githubusercontent.com/newast/WstockWallpapers_1/master/wallpaper_71.jpg",
+		"thumbUrl": "https://raw.githubusercontent.com/newast/WstockWallpapers_1/master/wallpaper_71_thumb.jpg",
+		"name": "flowers,green,coolpad",
+                "category": "coolpad"
+	    },
+		{
+		"author": "Wstock Wallpapers",
+		"url": "https://raw.githubusercontent.com/newast/WstockWallpapers_1/master/wallpaper_70.jpg",
+		"thumbUrl": "https://raw.githubusercontent.com/newast/WstockWallpapers_1/master/wallpaper_70_thumb.jpg",
+		"name": "abstract,purple,green,yellow,coolpad",
+                "category": "coolpad"
+	    },
+		{
+		"author": "Wstock Wallpapers",
+		"url": "https://raw.githubusercontent.com/newast/WstockWallpapers_1/master/wallpaper_69.jpg",
+		"thumbUrl": "https://raw.githubusercontent.com/newast/WstockWallpapers_1/master/wallpaper_69_thumb.jpg",
+		"name": "abstract,blue,red,yellow,orange,coolpad",
+                "category": "coolpad"
+	    },
+		{
+		"author": "Wstock Wallpapers",
+		"url": "https://raw.githubusercontent.com/newast/WstockWallpapers_1/master/wallpaper_68.jpg",
+		"thumbUrl": "https://raw.githubusercontent.com/newast/WstockWallpapers_1/master/wallpaper_68_thumb.jpg",
+		"name": "blur,blue,coolpad",
+                "category": "coolpad"
+	    },
+		{
+		"author": "Wstock Wallpapers",
 		"url": "https://raw.githubusercontent.com/newast/WstockWallpapers_1/master/wallpaper_67.jpg",
 		"thumbUrl": "https://raw.githubusercontent.com/newast/WstockWallpapers_1/master/wallpaper_67_thumb.jpg",
 		"name": "sky,pink,stars,oppo wallpaper",
