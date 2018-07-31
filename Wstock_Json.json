@@ -82,6 +82,55 @@
         [
 		{
 		"author": "Wstock Wallpapers",
+		"url": "https://raw.githubusercontent.com/newast/WstockWallpapers_1/master/wallpaper_31.jpg",
+		"thumbUrl": "https://raw.githubusercontent.com/newast/WstockWallpapers_1/master/wallpaper_31_thumb.jpg",
+		"name": "abstract,pink,asus wallpaper",
+                "category": "asus"
+	    },
+		{
+		"author": "Wstock Wallpapers",
+		"url": "https://raw.githubusercontent.com/newast/WstockWallpapers_1/master/wallpaper_30.jpg",
+		"thumbUrl": "https://raw.githubusercontent.com/newast/WstockWallpapers_1/master/wallpaper_30_thumb.jpg",
+		"name": "abstract,brown,asus wallpaper",
+                "category": "asus"
+	    },
+		{
+		"author": "Wstock Wallpapers",
+		"url": "https://raw.githubusercontent.com/newast/WstockWallpapers_1/master/wallpaper_29.jpg",
+		"thumbUrl": "https://raw.githubusercontent.com/newast/WstockWallpapers_1/master/wallpaper_29_thumb.jpg",
+		"name": "abstract,purple,asus wallpaper",
+                "category": "asus"
+	    },
+		{
+		"author": "Wstock Wallpapers",
+		"url": "https://raw.githubusercontent.com/newast/WstockWallpapers_1/master/wallpaper_28.jpg",
+		"thumbUrl": "https://raw.githubusercontent.com/newast/WstockWallpapers_1/master/wallpaper_28_thumb.jpg",
+		"name": "abstract,yellow,asus wallpaper",
+                "category": "asus"
+	    },
+		{
+		"author": "Wstock Wallpapers",
+		"url": "https://raw.githubusercontent.com/newast/WstockWallpapers_1/master/wallpaper_27.jpg",
+		"thumbUrl": "https://raw.githubusercontent.com/newast/WstockWallpapers_1/master/wallpaper_27_thumb.jpg",
+		"name": "abstract,blue,asus wallpaper",
+                "category": "asus"
+	    },
+		{
+		"author": "Wstock Wallpapers",
+		"url": "https://raw.githubusercontent.com/newast/WstockWallpapers_1/master/wallpaper_26.jpg",
+		"thumbUrl": "https://raw.githubusercontent.com/newast/WstockWallpapers_1/master/wallpaper_26_thumb.jpg",
+		"name": "abstract,red,asus wallpaper",
+                "category": "asus"
+	    },
+		{
+		"author": "Wstock Wallpapers",
+		"url": "https://raw.githubusercontent.com/newast/WstockWallpapers_1/master/wallpaper_25.jpg",
+		"thumbUrl": "https://raw.githubusercontent.com/newast/WstockWallpapers_1/master/wallpaper_25_thumb.jpg",
+		"name": "abstract,blue,yellow,pink,purple,asus wallpaper",
+                "category": "asus"
+	    },
+		{
+		"author": "Wstock Wallpapers",
 		"url": "https://raw.githubusercontent.com/newast/WstockWallpapers_1/master/wallpaper_24.jpg",
 		"thumbUrl": "https://raw.githubusercontent.com/newast/WstockWallpapers_1/master/wallpaper_24_thumb.jpg",
 		"name": "yosemite,hills,rocks,landscape,nature,apple wallpaper",
@@ -247,55 +296,6 @@
 		"thumbUrl": "https://raw.githubusercontent.com/newast/WstockWallpapers_1/master/wallpaper_01_thumb.jpg",
 		"name": "flower,purple,apple wallpaper",
                 "category": "apple"
-	    }
-		{
-		"author": "Wstock Wallpapers",
-		"url": "https://raw.githubusercontent.com/newast/WstockWallpapers_1/master/wallpaper_25.jpg",
-		"thumbUrl": "https://raw.githubusercontent.com/newast/WstockWallpapers_1/master/wallpaper_25_thumb.jpg",
-		"name": "abstract,blue,yellow,pink,purple,asus wallpaper",
-                "category": "asus"
-	    },
-		{
-		"author": "Wstock Wallpapers",
-		"url": "https://raw.githubusercontent.com/newast/WstockWallpapers_1/master/wallpaper_26.jpg",
-		"thumbUrl": "https://raw.githubusercontent.com/newast/WstockWallpapers_1/master/wallpaper_26_thumb.jpg",
-		"name": "abstract,red,asus wallpaper",
-                "category": "asus"
-	    },
-		{
-		"author": "Wstock Wallpapers",
-		"url": "https://raw.githubusercontent.com/newast/WstockWallpapers_1/master/wallpaper_27.jpg",
-		"thumbUrl": "https://raw.githubusercontent.com/newast/WstockWallpapers_1/master/wallpaper_27_thumb.jpg",
-		"name": "abstract,blue,asus wallpaper",
-                "category": "asus"
-	    },
-		{
-		"author": "Wstock Wallpapers",
-		"url": "https://raw.githubusercontent.com/newast/WstockWallpapers_1/master/wallpaper_28.jpg",
-		"thumbUrl": "https://raw.githubusercontent.com/newast/WstockWallpapers_1/master/wallpaper_28_thumb.jpg",
-		"name": "abstract,yellow,asus wallpaper",
-                "category": "asus"
-	    },
-		{
-		"author": "Wstock Wallpapers",
-		"url": "https://raw.githubusercontent.com/newast/WstockWallpapers_1/master/wallpaper_29.jpg",
-		"thumbUrl": "https://raw.githubusercontent.com/newast/WstockWallpapers_1/master/wallpaper_29_thumb.jpg",
-		"name": "abstract,purple,asus wallpaper",
-                "category": "asus"
-	    },
-		{
-		"author": "Wstock Wallpapers",
-		"url": "https://raw.githubusercontent.com/newast/WstockWallpapers_1/master/wallpaper_30.jpg",
-		"thumbUrl": "https://raw.githubusercontent.com/newast/WstockWallpapers_1/master/wallpaper_30_thumb.jpg",
-		"name": "abstract,brown,asus wallpaper",
-                "category": "asus"
-	    },
-		{
-		"author": "Wstock Wallpapers",
-		"url": "https://raw.githubusercontent.com/newast/WstockWallpapers_1/master/wallpaper_31.jpg",
-		"thumbUrl": "https://raw.githubusercontent.com/newast/WstockWallpapers_1/master/wallpaper_31_thumb.jpg",
-		"name": "abstract,pink,asus wallpaper",
-                "category": "asus"
 	    },
 		{
 		"author": "Wstock Wallpapers",
