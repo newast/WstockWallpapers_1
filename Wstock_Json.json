@@ -82,6 +82,27 @@
         [
 		{
 		"author": "Wstock Wallpapers",
+		"url": "https://raw.githubusercontent.com/newast/WstockWallpapers_1/master/wallpaper_32.jpg",
+		"thumbUrl": "https://raw.githubusercontent.com/newast/WstockWallpapers_1/master/wallpaper_32_thumb.jpg",
+		"name": "abstract,light blue,asus wallpaper",
+                "category": "asus"
+	    },
+		{
+		"author": "Wstock Wallpapers",
+		"url": "https://raw.githubusercontent.com/newast/WstockWallpapers_1/master/wallpaper_33.jpg",
+		"thumbUrl": "https://raw.githubusercontent.com/newast/WstockWallpapers_1/master/wallpaper_33_thumb.jpg",
+		"name": "abstract,cyan,asus wallpaper",
+                "category": "asus"
+	    },
+		{
+		"author": "Wstock Wallpapers",
+		"url": "https://raw.githubusercontent.com/newast/WstockWallpapers_1/master/wallpaper_34.jpg",
+		"thumbUrl": "https://raw.githubusercontent.com/newast/WstockWallpapers_1/master/wallpaper_34_thumb.jpg",
+		"name": "abstract,brown,asus wallpaper",
+                "category": "asus"
+	    },
+		{
+		"author": "Wstock Wallpapers",
 		"url": "https://raw.githubusercontent.com/newast/WstockWallpapers_1/master/wallpaper_31.jpg",
 		"thumbUrl": "https://raw.githubusercontent.com/newast/WstockWallpapers_1/master/wallpaper_31_thumb.jpg",
 		"name": "abstract,pink,asus wallpaper",
@@ -296,27 +317,6 @@
 		"thumbUrl": "https://raw.githubusercontent.com/newast/WstockWallpapers_1/master/wallpaper_01_thumb.jpg",
 		"name": "flower,purple,apple wallpaper",
                 "category": "apple"
-	    },
-		{
-		"author": "Wstock Wallpapers",
-		"url": "https://raw.githubusercontent.com/newast/WstockWallpapers_1/master/wallpaper_32.jpg",
-		"thumbUrl": "https://raw.githubusercontent.com/newast/WstockWallpapers_1/master/wallpaper_32_thumb.jpg",
-		"name": "abstract,light blue,asus wallpaper",
-                "category": "asus"
-	    },
-		{
-		"author": "Wstock Wallpapers",
-		"url": "https://raw.githubusercontent.com/newast/WstockWallpapers_1/master/wallpaper_33.jpg",
-		"thumbUrl": "https://raw.githubusercontent.com/newast/WstockWallpapers_1/master/wallpaper_33_thumb.jpg",
-		"name": "abstract,cyan,asus wallpaper",
-                "category": "asus"
-	    },
-		{
-		"author": "Wstock Wallpapers",
-		"url": "https://raw.githubusercontent.com/newast/WstockWallpapers_1/master/wallpaper_34.jpg",
-		"thumbUrl": "https://raw.githubusercontent.com/newast/WstockWallpapers_1/master/wallpaper_34_thumb.jpg",
-		"name": "abstract,brown,asus wallpaper",
-                "category": "asus"
 	    }
         ]
 }
