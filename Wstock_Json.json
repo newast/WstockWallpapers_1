@@ -82,17 +82,31 @@
         [
             {
 		"author": "Wstock Wallpapers",
-		"url": "https://raw.githubusercontent.com/newast/WstockWallpapers_1/master/wallpaper_02.jpg",
-		"thumbUrl": "https://raw.githubusercontent.com/newast/WstockWallpapers_1/master/wallpaper_02_thumb.jpg",
-		"name": "flower,purple,apple wallpaper",
+		"url": "https://raw.githubusercontent.com/newast/WstockWallpapers_1/master/wallpaper_07.jpg",
+		"thumbUrl": "https://raw.githubusercontent.com/newast/WstockWallpapers_1/master/wallpaper_07_thumb.jpg",
+		"name": "abstract,colors,blue,red,apple wallpaper",
                 "category": "apple"
 	     },
-             {
+		 {
 		"author": "Wstock Wallpapers",
-		"url": "https://raw.githubusercontent.com/newast/WstockWallpapers_1/master/wallpaper_01.jpg",
-		"thumbUrl": "https://raw.githubusercontent.com/newast/WstockWallpapers_1/master/wallpaper_01_thumb.jpg",
-		"name": "flower,purple,apple wallpaper",
+		"url": "https://raw.githubusercontent.com/newast/WstockWallpapers_1/master/wallpaper_08.jpg",
+		"thumbUrl": "https://raw.githubusercontent.com/newast/WstockWallpapers_1/master/wallpaper_08_thumb.jpg",
+		"name": "hills,apple wallpaper",
                 "category": "apple"
-	    }
+	     },
+		 {
+		"author": "Wstock Wallpapers",
+		"url": "https://raw.githubusercontent.com/newast/WstockWallpapers_1/master/wallpaper_09.jpg",
+		"thumbUrl": "https://raw.githubusercontent.com/newast/WstockWallpapers_1/master/wallpaper_09_thumb.jpg",
+		"name": "leafs,leaf,blue,green,apple wallpaper",
+                "category": "apple"
+	     },
+		 {
+		"author": "Wstock Wallpapers",
+		"url": "https://raw.githubusercontent.com/newast/WstockWallpapers_1/master/wallpaper_10.jpg",
+		"thumbUrl": "https://raw.githubusercontent.com/newast/WstockWallpapers_1/master/wallpaper_10_thumb.jpg",
+		"name": "cactus,purple,blue,pink,apple wallpaper",
+                "category": "apple"
+	     },
         ]
 }
